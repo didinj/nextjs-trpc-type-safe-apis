@@ -1,6 +1,6 @@
 # Using tRPC with Next.js 14 for Type-Safe APIs
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/6912c011d020500b9a25cfe6/using-trpc-with-nextjs-14-for-typesafe-apis).
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
